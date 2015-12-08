@@ -1,7 +1,7 @@
-## My Info
+## My Information
 
 **Name:** Brian
-* Location: NY
-* Fav Food: PIZZA
-* Fav Color: BLUE
-* Hobby: RUNNING
+* **Location:** NY
+* **Favorite Food:** PIZZA
+* **Favorite Color:** BLUE
+* **Hobby:** RUNNING
